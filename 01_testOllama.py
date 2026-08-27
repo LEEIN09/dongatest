@@ -37,3 +37,4 @@ chain = prompt | model | StrOutputParser()
 result = chain.invoke({'question':'미녀와야수'})
 print(result)
 
+# 2026 08 27 12시 37분
